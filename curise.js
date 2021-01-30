@@ -69,6 +69,7 @@ function submit() {
     <div class="property">total: </div> 
     <div class="value" > $${subTotalCost + subTotalCost/10} </div>
 </div>
+<button onclick="goBack()" class="btn-style">Go Back</button>
     `
 }
 
